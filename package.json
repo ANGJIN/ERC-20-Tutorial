@@ -1,0 +1,13 @@
+{
+  "name": "mycoin",
+  "version": "1.0.0",
+  "description": "my ERC-20 Coin",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "youngjin Kim <zmfjrxmfjr@naver.com>",
+  "license": "ISC"
+}
