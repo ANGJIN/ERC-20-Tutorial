@@ -8,6 +8,9 @@
   "scripts": {
     "test": "test"
   },
-  "author": "youngjin Kim <zmfjrxmfjr@naver.com>",
-  "license": "ISC"
+  "author": "Youngjin Kim <zmfjrxmfjr@naver.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0"
+  }
 }
